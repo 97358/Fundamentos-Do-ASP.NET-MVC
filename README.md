@@ -1,8 +1,8 @@
 # Fundamentos do ASP.NET MVC #
 
-## Vários projetos focados nos fundamentos do ASP.NET MVC. ##
+##  Visão geral de projetos focados nos fundamentos do ASP.NET MVC ##
 
-### Abordando: introdução, controllers, models, views e razor, entity framework, formulários e uma aplicação funcional. ###
+### Abrangendo: introdução, controllers, models, views e razor, entity framework, formulários e uma aplicação funcional. ###
 
 ##### Obs: * Projeto destinado exclusivamente para fins de estudo * #####
  
