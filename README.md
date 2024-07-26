@@ -2,4 +2,4 @@
 
 Vários projetos destinados aos fundamentos do ASP.NET MVC.
 
-Projeto destinado exclusivamente para fins de estudo.
+Obs: * Projeto destinado exclusivamente para fins de estudo *
