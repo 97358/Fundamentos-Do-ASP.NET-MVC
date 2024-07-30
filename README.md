@@ -4,8 +4,6 @@
 
 📝 **Nota:** Abrangendo: introdução, controllers, models, views e razor, entity framework, formulários e uma aplicação funcional.
 
-🔧 **Versão**
-
 ⚠️ **Atenção:** Destinado exclusivamente para fins de estudo.
 
 ##
